@@ -1,0 +1,18 @@
+F:\Etudes\FOAD\DL - Fun\MESM4\Cas Stagiaires\CasStagiairesDLLBase\classesMetierStagiaires\bin\Debug\classesMetierStagiaires.dll
+F:\Etudes\FOAD\DL - Fun\MESM4\Cas Stagiaires\CasStagiairesDLLBase\classesMetierStagiaires\bin\Debug\classesMetierStagiaires.pdb
+F:\Etudes\FOAD\DL - Fun\MESM4\Cas Stagiaires\CasStagiairesDLLBase\classesMetierStagiaires\obj\Debug\classesMetierStagiaires.dll
+F:\Etudes\FOAD\DL - Fun\MESM4\Cas Stagiaires\CasStagiairesDLLBase\classesMetierStagiaires\obj\Debug\classesMetierStagiaires.pdb
+F:\Etudes\FOAD\DL - Fun\MESM4\Cas Stagiaires\CasStagiairesDLLBase\classesMetierStagiaires\obj\Debug\classesMetierStagiaires.csprojResolveAssemblyReference.cache
+C:\Users\Trifouillis\Documents\Barbra\InformatiqueProgrammation\CCP1\Mesm4\op1\CasStagiairesDLLBase\classesMetierStagiaires\bin\Debug\classesMetierStagiaires.dll
+C:\Users\Trifouillis\Documents\Barbra\InformatiqueProgrammation\CCP1\Mesm4\op1\CasStagiairesDLLBase\classesMetierStagiaires\bin\Debug\classesMetierStagiaires.pdb
+C:\Users\Trifouillis\Documents\Barbra\InformatiqueProgrammation\CCP1\Mesm4\op1\CasStagiairesDLLBase\classesMetierStagiaires\obj\Debug\classesMetierStagiaires.csproj.CoreCompileInputs.cache
+C:\Users\Trifouillis\Documents\Barbra\InformatiqueProgrammation\CCP1\Mesm4\op1\CasStagiairesDLLBase\classesMetierStagiaires\obj\Debug\classesMetierStagiaires.dll
+C:\Users\Trifouillis\Documents\Barbra\InformatiqueProgrammation\CCP1\Mesm4\op1\CasStagiairesDLLBase\classesMetierStagiaires\obj\Debug\classesMetierStagiaires.pdb
+C:\Users\Trifouillis\Documents\Barbra\InformatiqueProgrammation\CCP1\Mesm4\op1\CasStagiairesDLLBase\classesMetierStagiaires\obj\Debug\classesMetierStagiaires.csprojAssemblyReference.cache
+C:\Users\Trifouillis\Documents\Barbra\InformatiqueProgrammation\CCP1\Mesm4\op1\CasStagiairesDLLBase\classesMetierStagiaires\bin\Debug\classesMetier.dll
+C:\Users\Trifouillis\Documents\Barbra\InformatiqueProgrammation\CCP1\Mesm4\op1\CasStagiairesDLLBase\classesMetierStagiaires\bin\Debug\MySql.Data.dll
+C:\Users\Trifouillis\Documents\Barbra\InformatiqueProgrammation\CCP1\Mesm4\op1\CasStagiairesDLLBase\classesMetierStagiaires\bin\Debug\MySql.Web.dll
+C:\Users\Trifouillis\Documents\Barbra\InformatiqueProgrammation\CCP1\Mesm4\op1\CasStagiairesDLLBase\classesMetierStagiaires\bin\Debug\classesMetier.pdb
+C:\Users\Trifouillis\Documents\Barbra\InformatiqueProgrammation\CCP1\Mesm4\op1\CasStagiairesDLLBase\classesMetierStagiaires\bin\Debug\MySql.Data.xml
+C:\Users\Trifouillis\Documents\Barbra\InformatiqueProgrammation\CCP1\Mesm4\op1\CasStagiairesDLLBase\classesMetierStagiaires\bin\Debug\MySql.Web.xml
+C:\Users\Trifouillis\Documents\Barbra\InformatiqueProgrammation\CCP1\Mesm4\op1\CasStagiairesDLLBase\classesMetierStagiaires\obj\Debug\classesMetierStagiaires.csproj.CopyComplete

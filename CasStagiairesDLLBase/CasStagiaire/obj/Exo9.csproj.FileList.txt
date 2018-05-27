@@ -1,0 +1,11 @@
+bin\Debug\Exo9.exe
+bin\Debug\Exo9.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Exo9.Properties.Resources.resources
+obj\Debug\Exo9.csproj.GenerateResource.Cache
+obj\Debug\Exo9.exe
+obj\Debug\Exo9.pdb
+obj\Debug\Exo9.frmAjoutStagiaire.resources
+obj\Debug\Exo9.frmExo7.resources
+obj\Debug\Exo9.frmStagiaire.resources
+obj\Debug\Exo9.frmVisuStagiaire.resources

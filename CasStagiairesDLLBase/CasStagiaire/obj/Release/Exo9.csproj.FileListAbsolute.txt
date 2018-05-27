@@ -1,0 +1,35 @@
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Projets C# 2013  Exo9\Exo9Métier\Exo9\bin\Release\Exo9.exe
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Projets C# 2013  Exo9\Exo9Métier\Exo9\bin\Release\Exo9.pdb
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Projets C# 2013  Exo9\Exo9Métier\Exo9\obj\Release\Exo9.frmAjoutStagiaire.resources
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Projets C# 2013  Exo9\Exo9Métier\Exo9\obj\Release\Exo9.frmExo9.resources
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Projets C# 2013  Exo9\Exo9Métier\Exo9\obj\Release\Exo9.frmMDI.resources
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Projets C# 2013  Exo9\Exo9Métier\Exo9\obj\Release\Exo9.frmSaisieNote.resources
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Projets C# 2013  Exo9\Exo9Métier\Exo9\obj\Release\Exo9.frmStagiaire.resources
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Projets C# 2013  Exo9\Exo9Métier\Exo9\obj\Release\Exo9.frmVisuStagiaire.resources
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Projets C# 2013  Exo9\Exo9Métier\Exo9\obj\Release\Exo9.Properties.Resources.resources
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Projets C# 2013  Exo9\Exo9Métier\Exo9\obj\Release\Exo9.csproj.GenerateResource.Cache
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Projets C# 2013  Exo9\Exo9Métier\Exo9\obj\Release\Exo9.exe
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Projets C# 2013  Exo9\Exo9Métier\Exo9\obj\Release\Exo9.pdb
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Projets C# 2013  Exo9\Exo9Métier\Exo9\obj\Release\Exo9.csprojResolveAssemblyReference.cache
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Projets C# 2013  Exo9\Exo9Métier - Copie\Exo9\obj\Release\Exo9.exe
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Projets C# 2013  Exo9\Exo9Métier - Copie\Exo9\obj\Release\Exo9.pdb
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Projets C# 2013  Exo9\Exo9Métier - Copie\Exo9\obj\Release\Exo9.csprojResolveAssemblyReference.cache
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Projets C# 2013  Exo9\Exo9Métier - Copie\Exo9\obj\Release\Exo9.frmAjoutStagiaire.resources
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Projets C# 2013  Exo9\Exo9Métier - Copie\Exo9\obj\Release\Exo9.frmExo9.resources
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Projets C# 2013  Exo9\Exo9Métier - Copie\Exo9\obj\Release\Exo9.frmMDI.resources
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Projets C# 2013  Exo9\Exo9Métier - Copie\Exo9\obj\Release\Exo9.frmSaisieNote.resources
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Projets C# 2013  Exo9\Exo9Métier - Copie\Exo9\obj\Release\Exo9.frmStagiaire.resources
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Projets C# 2013  Exo9\Exo9Métier - Copie\Exo9\obj\Release\Exo9.frmVisuStagiaire.resources
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Projets C# 2013  Exo9\Exo9Métier - Copie\Exo9\obj\Release\Exo9.Properties.Resources.resources
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Projets C# 2013  Exo9\Exo9Métier - Copie\Exo9\obj\Release\Exo9.csproj.GenerateResource.Cache
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Projets C# 2013  Exo9\Exo9Métier - Copie\Exo9\bin\Release\Exo9.exe.config
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Projets C# 2013  Exo9\Exo9Métier - Copie\Exo9\bin\Release\Exo9.exe
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Projets C# 2013  Exo9\Exo9Métier - Copie\Exo9\bin\Release\Exo9.pdb
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Projets C# 2013  Exo9\Exo9Métier - Copie\Exo9\bin\Release\classesMetier.dll
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Projets C# 2013  Exo9\Exo9Métier - Copie\Exo9\bin\Release\classesMetier.pdb
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Projets C# 2013  Exo9\Exo9MétierDLL\Exo9\bin\Release\Exo9.exe.config
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Projets C# 2013  Exo9\Exo9MétierDLL\Exo9\obj\Release\Exo9.exe
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Projets C# 2013  Exo9\Exo9MétierDLL\Exo9\obj\Release\Exo9.pdb
+\\lune\RessProf\CDI\Ressources\U04 - Développer application X-tiers\Projets C# 2013  Exo9\Exo9MetierDLL\Exo9\bin\Release\Exo9.exe.config
+\\lune\RessProf\CDI\Ressources\U04 - Développer application X-tiers\Projets C# 2013  Exo9\Exo9MetierDLL\Exo9\obj\Release\Exo9.exe
+\\lune\RessProf\CDI\Ressources\U04 - Développer application X-tiers\Projets C# 2013  Exo9\Exo9MetierDLL\Exo9\obj\Release\Exo9.pdb

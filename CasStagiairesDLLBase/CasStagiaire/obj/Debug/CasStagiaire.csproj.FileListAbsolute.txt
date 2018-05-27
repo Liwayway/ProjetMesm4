@@ -1,0 +1,39 @@
+F:\Etudes\FOAD\DL - Fun\MESM4\Cas Stagiaires\CasStagiairesDLL\CasStagiaire\bin\Debug\Exo9.exe.config
+F:\Etudes\FOAD\DL - Fun\MESM4\Cas Stagiaires\CasStagiairesDLLBase\CasStagiaire\bin\Debug\CasStagiaire.exe.config
+F:\Etudes\FOAD\DL - Fun\MESM4\Cas Stagiaires\CasStagiairesDLLBase\CasStagiaire\bin\Debug\CasStagiaire.exe
+F:\Etudes\FOAD\DL - Fun\MESM4\Cas Stagiaires\CasStagiairesDLLBase\CasStagiaire\bin\Debug\CasStagiaire.pdb
+F:\Etudes\FOAD\DL - Fun\MESM4\Cas Stagiaires\CasStagiairesDLLBase\CasStagiaire\bin\Debug\classesMetierStagiaires.dll
+F:\Etudes\FOAD\DL - Fun\MESM4\Cas Stagiaires\CasStagiairesDLLBase\CasStagiaire\bin\Debug\classesMetierStagiaires.pdb
+F:\Etudes\FOAD\DL - Fun\MESM4\Cas Stagiaires\CasStagiairesDLLBase\CasStagiaire\obj\Debug\CasStagiaire.csprojResolveAssemblyReference.cache
+F:\Etudes\FOAD\DL - Fun\MESM4\Cas Stagiaires\CasStagiairesDLLBase\CasStagiaire\obj\Debug\classesMetierStagiaires.frmAjoutStagiaire.resources
+F:\Etudes\FOAD\DL - Fun\MESM4\Cas Stagiaires\CasStagiairesDLLBase\CasStagiaire\obj\Debug\classesMetierStagiaires.frmExo9.resources
+F:\Etudes\FOAD\DL - Fun\MESM4\Cas Stagiaires\CasStagiairesDLLBase\CasStagiaire\obj\Debug\classesMetierStagiaires.frmMDI.resources
+F:\Etudes\FOAD\DL - Fun\MESM4\Cas Stagiaires\CasStagiairesDLLBase\CasStagiaire\obj\Debug\classesMetierStagiaires.frmSaisieNote.resources
+F:\Etudes\FOAD\DL - Fun\MESM4\Cas Stagiaires\CasStagiairesDLLBase\CasStagiaire\obj\Debug\classesMetierStagiaires.frmStagiaire.resources
+F:\Etudes\FOAD\DL - Fun\MESM4\Cas Stagiaires\CasStagiairesDLLBase\CasStagiaire\obj\Debug\classesMetierStagiaires.frmVisuStagiaire.resources
+F:\Etudes\FOAD\DL - Fun\MESM4\Cas Stagiaires\CasStagiairesDLLBase\CasStagiaire\obj\Debug\CasStagiaire.Properties.Resources.resources
+F:\Etudes\FOAD\DL - Fun\MESM4\Cas Stagiaires\CasStagiairesDLLBase\CasStagiaire\obj\Debug\CasStagiaire.csproj.GenerateResource.Cache
+F:\Etudes\FOAD\DL - Fun\MESM4\Cas Stagiaires\CasStagiairesDLLBase\CasStagiaire\obj\Debug\CasStagiaire.exe
+F:\Etudes\FOAD\DL - Fun\MESM4\Cas Stagiaires\CasStagiairesDLLBase\CasStagiaire\obj\Debug\CasStagiaire.pdb
+C:\Users\Trifouillis\Documents\Barbra\InformatiqueProgrammation\CCP1\Mesm4\op1\CasStagiairesDLLBase\CasStagiaire\bin\Debug\CasStagiaire.exe.config
+C:\Users\Trifouillis\Documents\Barbra\InformatiqueProgrammation\CCP1\Mesm4\op1\CasStagiairesDLLBase\CasStagiaire\bin\Debug\CasStagiaire.exe
+C:\Users\Trifouillis\Documents\Barbra\InformatiqueProgrammation\CCP1\Mesm4\op1\CasStagiairesDLLBase\CasStagiaire\bin\Debug\CasStagiaire.pdb
+C:\Users\Trifouillis\Documents\Barbra\InformatiqueProgrammation\CCP1\Mesm4\op1\CasStagiairesDLLBase\CasStagiaire\bin\Debug\classesMetierStagiaires.dll
+C:\Users\Trifouillis\Documents\Barbra\InformatiqueProgrammation\CCP1\Mesm4\op1\CasStagiairesDLLBase\CasStagiaire\bin\Debug\classesMetierStagiaires.pdb
+C:\Users\Trifouillis\Documents\Barbra\InformatiqueProgrammation\CCP1\Mesm4\op1\CasStagiairesDLLBase\CasStagiaire\obj\Debug\classesMetierStagiaires.frmAjoutStagiaire.resources
+C:\Users\Trifouillis\Documents\Barbra\InformatiqueProgrammation\CCP1\Mesm4\op1\CasStagiairesDLLBase\CasStagiaire\obj\Debug\classesMetierStagiaires.frmExo9.resources
+C:\Users\Trifouillis\Documents\Barbra\InformatiqueProgrammation\CCP1\Mesm4\op1\CasStagiairesDLLBase\CasStagiaire\obj\Debug\classesMetierStagiaires.frmMDI.resources
+C:\Users\Trifouillis\Documents\Barbra\InformatiqueProgrammation\CCP1\Mesm4\op1\CasStagiairesDLLBase\CasStagiaire\obj\Debug\classesMetierStagiaires.frmSaisieNote.resources
+C:\Users\Trifouillis\Documents\Barbra\InformatiqueProgrammation\CCP1\Mesm4\op1\CasStagiairesDLLBase\CasStagiaire\obj\Debug\classesMetierStagiaires.frmStagiaire.resources
+C:\Users\Trifouillis\Documents\Barbra\InformatiqueProgrammation\CCP1\Mesm4\op1\CasStagiairesDLLBase\CasStagiaire\obj\Debug\classesMetierStagiaires.frmVisuStagiaire.resources
+C:\Users\Trifouillis\Documents\Barbra\InformatiqueProgrammation\CCP1\Mesm4\op1\CasStagiairesDLLBase\CasStagiaire\obj\Debug\CasStagiaire.Properties.Resources.resources
+C:\Users\Trifouillis\Documents\Barbra\InformatiqueProgrammation\CCP1\Mesm4\op1\CasStagiairesDLLBase\CasStagiaire\obj\Debug\CasStagiaire.csproj.GenerateResource.cache
+C:\Users\Trifouillis\Documents\Barbra\InformatiqueProgrammation\CCP1\Mesm4\op1\CasStagiairesDLLBase\CasStagiaire\obj\Debug\CasStagiaire.csproj.CoreCompileInputs.cache
+C:\Users\Trifouillis\Documents\Barbra\InformatiqueProgrammation\CCP1\Mesm4\op1\CasStagiairesDLLBase\CasStagiaire\obj\Debug\CasStagiaire.csproj.CopyComplete
+C:\Users\Trifouillis\Documents\Barbra\InformatiqueProgrammation\CCP1\Mesm4\op1\CasStagiairesDLLBase\CasStagiaire\obj\Debug\CasStagiaire.exe
+C:\Users\Trifouillis\Documents\Barbra\InformatiqueProgrammation\CCP1\Mesm4\op1\CasStagiairesDLLBase\CasStagiaire\obj\Debug\CasStagiaire.pdb
+C:\Users\Trifouillis\Documents\Barbra\InformatiqueProgrammation\CCP1\Mesm4\op1\CasStagiairesDLLBase\CasStagiaire\obj\Debug\CasStagiaire.csprojAssemblyReference.cache
+C:\Users\Trifouillis\Documents\Barbra\InformatiqueProgrammation\CCP1\Mesm4\op1\CasStagiairesDLLBase\CasStagiaire\bin\Debug\MySql.Data.dll
+C:\Users\Trifouillis\Documents\Barbra\InformatiqueProgrammation\CCP1\Mesm4\op1\CasStagiairesDLLBase\CasStagiaire\bin\Debug\MySql.Web.dll
+C:\Users\Trifouillis\Documents\Barbra\InformatiqueProgrammation\CCP1\Mesm4\op1\CasStagiairesDLLBase\CasStagiaire\bin\Debug\MySql.Data.xml
+C:\Users\Trifouillis\Documents\Barbra\InformatiqueProgrammation\CCP1\Mesm4\op1\CasStagiairesDLLBase\CasStagiaire\bin\Debug\MySql.Web.xml

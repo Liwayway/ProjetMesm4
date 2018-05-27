@@ -1,0 +1,5 @@
+F:\Etudes\FOAD\DL - Fun\MESM4\Cas Stagiaires\CasStagiairesDLL\classesMetier\bin\Debug\classesMetier.dll
+F:\Etudes\FOAD\DL - Fun\MESM4\Cas Stagiaires\CasStagiairesDLL\classesMetier\bin\Debug\classesMetier.pdb
+F:\Etudes\FOAD\DL - Fun\MESM4\Cas Stagiaires\CasStagiairesDLL\classesMetier\obj\Debug\classesMetier.csprojResolveAssemblyReference.cache
+F:\Etudes\FOAD\DL - Fun\MESM4\Cas Stagiaires\CasStagiairesDLL\classesMetier\obj\Debug\classesMetier.dll
+F:\Etudes\FOAD\DL - Fun\MESM4\Cas Stagiaires\CasStagiairesDLL\classesMetier\obj\Debug\classesMetier.pdb

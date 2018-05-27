@@ -1,0 +1,26 @@
+F:\documents\Visual Studio 2012\Projects\Exo9Métier\Exo9\obj\Debug\Exo9.exe
+F:\documents\Visual Studio 2012\Projects\Exo9Métier\Exo9\obj\Debug\Exo9.pdb
+F:\documents\Visual Studio 2012\Projects\Exo9Métier\Exo9\bin\Debug\Exo9.exe
+F:\documents\Visual Studio 2012\Projects\Exo9Métier\Exo9\bin\Debug\Exo9.pdb
+F:\documents\Visual Studio 2012\Projects\Exo9Métier\Exo9\obj\Debug\Exo9.csprojResolveAssemblyReference.cache
+F:\documents\Visual Studio 2012\Projects\Exo9Métier\Exo9\obj\Debug\Exo9.frmAjoutStagiaire.resources
+F:\documents\Visual Studio 2012\Projects\Exo9Métier\Exo9\obj\Debug\Exo9.frmExo9.resources
+F:\documents\Visual Studio 2012\Projects\Exo9Métier\Exo9\obj\Debug\Exo9.frmMDI.resources
+F:\documents\Visual Studio 2012\Projects\Exo9Métier\Exo9\obj\Debug\Exo9.frmSaisieNote.resources
+F:\documents\Visual Studio 2012\Projects\Exo9Métier\Exo9\obj\Debug\Exo9.frmStagiaire.resources
+F:\documents\Visual Studio 2012\Projects\Exo9Métier\Exo9\obj\Debug\Exo9.frmVisuStagiaire.resources
+F:\documents\Visual Studio 2012\Projects\Exo9Métier\Exo9\obj\Debug\Exo9.Properties.Resources.resources
+F:\documents\Visual Studio 2012\Projects\Exo9Métier\Exo9\obj\Debug\Exo9.csproj.GenerateResource.Cache
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Projets C# 2013  Exo9\Exo9Métier\Exo9\obj\Debug\Exo9.exe
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Projets C# 2013  Exo9\Exo9Métier\Exo9\obj\Debug\Exo9.pdb
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Projets C# 2013  Exo9\Exo9Métier\Exo9\bin\Debug\Exo9.exe
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Projets C# 2013  Exo9\Exo9Métier\Exo9\bin\Debug\Exo9.pdb
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Projets C# 2013  Exo9\Exo9Métier\Exo9\obj\Debug\Exo9.csprojResolveAssemblyReference.cache
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Projets C# 2013  Exo9\Exo9Métier\Exo9\obj\Debug\Exo9.frmAjoutStagiaire.resources
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Projets C# 2013  Exo9\Exo9Métier\Exo9\obj\Debug\Exo9.frmExo9.resources
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Projets C# 2013  Exo9\Exo9Métier\Exo9\obj\Debug\Exo9.frmMDI.resources
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Projets C# 2013  Exo9\Exo9Métier\Exo9\obj\Debug\Exo9.frmSaisieNote.resources
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Projets C# 2013  Exo9\Exo9Métier\Exo9\obj\Debug\Exo9.frmStagiaire.resources
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Projets C# 2013  Exo9\Exo9Métier\Exo9\obj\Debug\Exo9.frmVisuStagiaire.resources
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Projets C# 2013  Exo9\Exo9Métier\Exo9\obj\Debug\Exo9.Properties.Resources.resources
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Projets C# 2013  Exo9\Exo9Métier\Exo9\obj\Debug\Exo9.csproj.GenerateResource.Cache

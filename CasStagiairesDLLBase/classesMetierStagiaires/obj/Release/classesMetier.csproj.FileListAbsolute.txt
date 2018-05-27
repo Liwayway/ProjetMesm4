@@ -1,0 +1,5 @@
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Projets C# 2013  Exo9\Exo9Métier - Copie\classesMetier\bin\Release\classesMetier.dll
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Projets C# 2013  Exo9\Exo9Métier - Copie\classesMetier\bin\Release\classesMetier.pdb
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Projets C# 2013  Exo9\Exo9Métier - Copie\classesMetier\obj\Release\classesMetier.csprojResolveAssemblyReference.cache
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Projets C# 2013  Exo9\Exo9Métier - Copie\classesMetier\obj\Release\classesMetier.dll
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Projets C# 2013  Exo9\Exo9Métier - Copie\classesMetier\obj\Release\classesMetier.pdb
