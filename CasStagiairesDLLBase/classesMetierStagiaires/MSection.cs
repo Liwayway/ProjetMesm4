@@ -128,6 +128,7 @@ namespace classesMetierStagiaires
         {
             // TODO : à sécuriser : doublon sur clé possible
             this.lesStagiaires.Add(unStagiaire.NumOsiaStagiaire, unStagiaire);
+            //on renseigne le code section de l'objet stagiaire. 
             unStagiaire.CodeSection = this.CodeSection;
         }
 

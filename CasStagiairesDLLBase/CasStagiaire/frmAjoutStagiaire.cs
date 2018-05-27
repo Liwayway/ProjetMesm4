@@ -119,7 +119,11 @@ namespace classesMetierStagiaires
                 // ---------------------------------------------------------
                 ConnexionBDD connexion = new ConnexionBDD();
                 
-                nouveauStagiaire.Save(connexion);
+                bool result = nouveauStagiaire.Save(connexion);
+                if (result == false)
+                {
+                    throw new Exception("impossible de sauvegarder");
+                }
                 return true;
 
             }

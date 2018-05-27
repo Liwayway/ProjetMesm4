@@ -153,7 +153,7 @@ namespace classesMetierStagiaires
 
         public String CodeSection;
 
-        public Boolean Save(object o) { return false; }
+        public abstract Boolean Save(ConnexionBDD o);
 
         /// <summary>
         /// nombre de notes obtenues

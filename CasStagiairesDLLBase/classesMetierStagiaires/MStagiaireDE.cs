@@ -62,13 +62,13 @@ namespace classesMetierStagiaires
         }
 
         // ecrit la requete en bdd à faire executer par l'object de connexion
-        public bool Save(ConnexionBDD connexion)
+        public override Boolean Save(ConnexionBDD connexion)
         {
             //INSERT INTO
             string query = "INSERT INTO stagiaire (id, numOsia, prenom, nom, rue, ville, cp, de, remuafpa, idsectionsuivie) VALUES ('','" +
                 this.numOsiaStagiaire + "', '" + this.PrenomStagiaire + "','" + this.NomStagiaire + "','" +
                 this.RueStagiaire + "','" + this.VilleStagiaire + "','" + this.CodePostalStagiaire +
-                "','" + DE + "','" + this.RemuAfpaStagiaire + ", '" + this.codeSection + "')";
+                "','" + DE + "','" + this.RemuAfpaStagiaire + ", '" + this.CodeSection + "')";
 
             int result = connexion.executeQuery(query);
 
