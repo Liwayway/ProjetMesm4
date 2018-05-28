@@ -23,10 +23,11 @@ namespace classesMetierStagiaires
         /// <param name="unFongecif">Nom fongecif</param>
         /// <param name="unTypeCIF">type de CIF</param>
         public MStagiaireCIF(Int32 unNumosia, String unNom, String unPrenom, String uneRue, String uneVille, String UnCodePostal,
-            String unFongecif, String unTypeCIF)
-            : base(unNumosia,  unNom,  unPrenom,  uneRue,  uneVille,  UnCodePostal)
+            String unFongecif, String unTypeCIF, String codeSection)
+            : base(unNumosia,  unNom,  unPrenom,  uneRue,  uneVille,  UnCodePostal, codeSection)
         {
             this.FongecifStagiaire = unFongecif;
+            this.CodeSection = codeSection;
             this.TypeCifStagiaire = unTypeCIF;
         }
         /// <summary>
@@ -78,18 +79,36 @@ namespace classesMetierStagiaires
 
         /// <summary>
         /// 
-        /// A MODIFIER CAR copier/Coller de la fonction de la classe DE
+        /// A MODIFIER CAR copier/Coller de la fonction de la classe DE (update: ok)
         /// </summary>
         /// <param name="connexion"></param>
         /// <returns></returns>
         // ecrit la requete en bdd à faire executer par l'object de connexion
         public override Boolean Save(ConnexionBDD connexion)
         {
-            //INSERT INTO
-            string query = "INSERT INTO stagiaire (id, numOsia, prenom, nom, rue, ville, cp, de, remuafpa, idsectionsuivie) VALUES ('','" +
-                this.numOsiaStagiaire + "', '" + this.PrenomStagiaire + "','" + this.NomStagiaire + "','" +
-                this.RueStagiaire + "','" + this.VilleStagiaire + "','" + this.CodePostalStagiaire +
-                "','" + DE + "','" + this.RemuAfpaStagiaire + ", '" + this.CodeSection + "')";
+            string query = "INSERT INTO stagiaire (numOsia, prenom, nom, rue, ville, cp, de, remuafpa, typecif, fondgestion, codesection) VALUES('', '"
+        + this.numOsiaStagiaire +
+        "','"
+        + this.PrenomStagiaire +
+        "','"
+        + this.NomStagiaire +
+        "','"
+        + this.RueStagiaire +
+        "','"
+        + this.VilleStagiaire +
+        "','"
+        + this.CodePostalStagiaire +
+        "','"
+        + false +
+        "','"
+        + false +
+        "','"
+        + this.typeCifStagiaire +
+        "','"
+        + this.FongecifStagiaire +
+        "','"
+        + this.CodeSection +
+        "')";
 
             int result = connexion.executeQuery(query);
 

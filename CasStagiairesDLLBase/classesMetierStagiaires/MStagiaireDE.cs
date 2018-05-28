@@ -28,10 +28,11 @@ namespace classesMetierStagiaires
         protected String codeSection;
         
         public MStagiaireDE(Int32 unNumosia, String unNom, String unPrenom, String uneRue, String uneVille, String UnCodePostal,
-            Boolean unRemuAfpa)
-            : base( unNumosia,  unNom,  unPrenom,  uneRue,  uneVille,  UnCodePostal)
+            Boolean unRemuAfpa, String codeSection)
+            : base( unNumosia,  unNom,  unPrenom,  uneRue,  uneVille,  UnCodePostal, codeSection)
         {
             this.RemuAfpaStagiaire = unRemuAfpa;
+            this.codeSection = codeSection;
         }
 
         /// <summary>
@@ -65,10 +66,27 @@ namespace classesMetierStagiaires
         public override Boolean Save(ConnexionBDD connexion)
         {
             //INSERT INTO
-            string query = "INSERT INTO stagiaire (id, numOsia, prenom, nom, rue, ville, cp, de, remuafpa, idsectionsuivie) VALUES ('','" +
-                this.numOsiaStagiaire + "', '" + this.PrenomStagiaire + "','" + this.NomStagiaire + "','" +
-                this.RueStagiaire + "','" + this.VilleStagiaire + "','" + this.CodePostalStagiaire +
-                "','" + DE + "','" + this.RemuAfpaStagiaire + ", '" + this.CodeSection + "')";
+            string query = "INSERT INTO stagiaire (numOsia, prenom, nom, rue, ville, cp, de, remuafpa, codesection) VALUES('"
+        + this.numOsiaStagiaire +
+        "','"
+        + this.PrenomStagiaire +
+        "','"
+        + this.NomStagiaire +
+        "','"
+        + this.RueStagiaire +
+        "','"
+        + this.VilleStagiaire +
+        "','"
+        + this.CodePostalStagiaire +
+        "',"
+        + true +
+        ","
+        //Pour la rému afpa, comment faire ? si la checkbox est check = true
+        + this.RemuAfpaStagiaire +
+        ",'"
+        + this.CodeSection +
+        "')";
+
 
             int result = connexion.executeQuery(query);
 

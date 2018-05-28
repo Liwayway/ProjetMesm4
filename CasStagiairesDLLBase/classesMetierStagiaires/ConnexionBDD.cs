@@ -28,7 +28,7 @@ namespace classesMetierStagiaires
         private void Initialize()
         {
             server = "localhost";
-            database = "bddthierry";
+            database = "testons";
             uid = "root";
             password = "";
             string connectionString;

@@ -51,7 +51,7 @@ namespace classesMetierStagiaires
             //----------------------------------------------------------------------------------
             // instancie en dur un stagiaire 
             MStagiaire unStagiaire;
-            unStagiaire = new MStagiaireDE(11111, "DUPOND", "Albert", "12 rue des Fleurs", "NICE", "06300", false);
+            unStagiaire = new MStagiaireDE(11111, "DUPOND", "Albert", "12 rue des Fleurs", "NICE", "06300", false, 43.ToString());
 
             // ajoute le stagiaire instancié à la collection de la section CDI1
             this.laSection.Ajouter(unStagiaire);

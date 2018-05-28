@@ -80,7 +80,8 @@ namespace classesMetierStagiaires
                         base.txtAdresse.Text,
                         base.txtVille.Text,
                         base.txtCodePostal.Text.Trim(),
-                        this.chkRemuAfpa.Checked);
+                        this.chkRemuAfpa.Checked,
+                        43.ToString());
                 }
                 else // c'est un CIF
                 {
@@ -108,7 +109,8 @@ namespace classesMetierStagiaires
                         base.txtVille.Text,
                         base.txtCodePostal.Text.Trim(),
                         this.txtFongecif.Text,
-                        leTypeCIF);
+                        leTypeCIF,
+                        43.ToString());
                     
                   }
 
