@@ -86,7 +86,8 @@ namespace classesMetierStagiaires
         // ecrit la requete en bdd à faire executer par l'object de connexion
         public override Boolean Save(ConnexionBDD connexion)
         {
-            string query = "INSERT INTO stagiaire (numOsia, prenom, nom, rue, ville, cp, de, remuafpa, typecif, fondgestion, codesection) VALUES('', '"
+            string query = "INSERT INTO stagiaire (numOsia, prenom, nom, rue, ville, cp" +
+                ", de, remuafpa, typecif, fondgestion, codesection) VALUES( '"
         + this.numOsiaStagiaire +
         "','"
         + this.PrenomStagiaire +
@@ -98,11 +99,11 @@ namespace classesMetierStagiaires
         + this.VilleStagiaire +
         "','"
         + this.CodePostalStagiaire +
-        "','"
+        "',"
         + false +
-        "','"
+        ","
         + false +
-        "','"
+        ",'"
         + this.typeCifStagiaire +
         "','"
         + this.FongecifStagiaire +
